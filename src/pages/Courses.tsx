@@ -2,8 +2,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button";
 import { PlayCircle, Clock, User } from "lucide-react";
 import { Link } from "react-router-dom";
-import neaPhoto from "@/assets/nea-photo.webp";
-import logo from "@/assets/logo.svg";
+import neaPhoto from "@/assets/nea-photo.jpg";
+import logo from "@/assets/logo.png";
 interface Video {
   id: string;
   title: string;

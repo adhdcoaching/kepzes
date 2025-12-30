@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ExternalLink, ArrowLeft } from "lucide-react";
 import { Link } from "react-router-dom";
-import logo from "@/assets/logo.svg";
+import logo from "@/assets/logo.png";
 
 const Resources = () => {
   const resources = [
