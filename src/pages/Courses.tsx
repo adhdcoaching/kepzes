@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { PlayCircle, Clock, User } from "lucide-react";
 import { Link } from "react-router-dom";
 import neaPhoto from "@/assets/nea-photo.webp";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/logo.svg";
 interface Video {
   id: string;
   title: string;
